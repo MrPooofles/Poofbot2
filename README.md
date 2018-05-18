@@ -1,2 +1,2 @@
 # Poofbot2
-This is my 3 attempt to make PoofBot
+Hello there this bot is made by MrPooofles this is the 3rd time i'm fixing this bot also added some new features to it!
